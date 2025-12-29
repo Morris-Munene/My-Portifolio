@@ -23,7 +23,8 @@ You can explore the source code here on GitHub or view the live site (if hosted)
 ## 📬 Contact
 I am always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 * **GitHub**: [Morris-Munene](https://github.com/Morris-Munene)
-* **LinkedIn**: [Insert your LinkedIn link]
+* **LinkedIn**: [https://www.linkedin.com/in/morris-munene-6370a5298/]
+* **Email**: (mmunene457@gmail.com)
 
 ---
 *Continuously evolving and learning. Thanks for visiting!*
